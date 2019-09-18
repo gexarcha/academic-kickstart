@@ -16,7 +16,7 @@ role: Machine Learning and Theoretical Neuroscience Researcher
 organizations:
 - name: Institut de la Vision
   url: "https://www.institut-vision.org/en/"
-- name: Ecole Polytechnique
+- name: École Polytechnique
   url: "https://www.polytechnique.edu/en/"
 
 # Short bio (displayed in user profile at end of posts)
