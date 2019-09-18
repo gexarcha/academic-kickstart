@@ -19,4 +19,5 @@ This is an example of using the *custom* widget to create your own homepage sect
 
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
  -->
-For the teaching resources visit the website of the Machine Learning team in [Oldenburg](https://www.uni-oldenburg.de/en/mediphysics-acoustics/machine-learning/teaching/).
+* Machine Learning I and II @ [Oldenburg](https://uol.de/en/machine-learning/teaching).
+* Machine and Deep learning @ [École Polytechnique](https://moodle.polytechnique.fr/enrol/index.php?id=7297).
