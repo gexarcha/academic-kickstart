@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name : Georgios Exarchakis
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Machine Learning and Theoretical Neuroscience Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Institut de la Vision
+  url: "https://www.institut-vision.org/en/"
+- name: Ecole Polytechnique
+  url: "https://www.polytechnique.edu/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial inteligence, machine learning, and theoretical neuroscience.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Theoretical Neuroscience
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Dr. rer. nat. in Machine Learning
+    institution: Carl von Ossietzky University of Oldenburg
+    year: 2016
+  - course: M.Sc. in Computational Science
+    institution: Goethe University Frankfurt
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Dimploma in Mathematics
+    institution: Aristotle University of Thessaloniki
     year: 2008
 
 # Social/Academic Networking
@@ -47,13 +49,23 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/gexarcha
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.fr/citations?user=Bh7Pef0AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2517-5782
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Georgios_Exarchakis
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gexarcha
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.org/gexarcha
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +82,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Georgios completed his undergraduate studies in the Mathematics department of the Aristotle University of Thessaloniki. After that, he joined the M.Sc. program in Computational Science at the Department for Theoretical Physics of Frankfurt University with a specialization on Machine Learning and Computational Neuroscience. His doctoral research was supported collaboratively by [Prof. Dr. Roland Memisevic](http://www.iro.umontreal.ca/~memisevr/) at the University of Frankfurt (2012-2013), [Prof. Dr. Bruno Olshausen](https://redwood.berkeley.edu/people/bruno-olshausen/) at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) at UC Berkeley (2013-2014), and [Prof. Dr. Jörg Lücke](https://uol.de/en/machine-learning/) at the University of Oldenburg(2014-2016). As a result, he received the degree of Dr. rer. nat. from the University of Oldenburg on 01.11.2016. He worked as postdoctoral researcher at [Prof. Dr. Stephane Mallat](https://www.di.ens.fr/~mallat/)’s [DATA](https://www.di.ens.fr/data/) team at École Normale Supérieure. Currently, he works at [institut de la vision](http://www.institut-vision.org/).
+
+His research interests revolve around sparse coding, graphical models, deep learning, and theoretical neuroscience. He has studied their applications primarily on spike sorting, receptive field estimation, quantum chemistry, and natural image statistics.
